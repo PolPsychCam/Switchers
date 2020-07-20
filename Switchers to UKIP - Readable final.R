@@ -7,6 +7,11 @@
 # 2) the code for the analysis of voters who switched to any party,
 #not only to UKIP (from line 780 to 1130 approximately)
 
+#the data can be downloaded from this link:
+#https://www.britishelectionstudy.com/data-object/british-election-study-combined-wave-internet-panel/
+#when landing on the page, click "Download". The data files will appear in different formats
+#download the file in SPSS format
+
 library(haven)
 library(plyr)
 library(dplyr)
